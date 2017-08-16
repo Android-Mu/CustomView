@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colorMatrix">
+        <item>Grayscale</item>
+        <item>Sepia</item>
+        <item>Binary</item>
+        <item>Invert</item>
+        <item>Alpha blue</item>
+        <item>Alpha pink</item>
+    </string-array>
+</resources>
