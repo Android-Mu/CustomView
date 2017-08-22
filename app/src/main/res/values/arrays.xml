@@ -2,6 +2,7 @@
 <resources>
 
     <string-array name="colorMatrix">
+        <item>default img</item>
         <item>Grayscale</item>
         <item>Sepia</item>
         <item>Binary</item>

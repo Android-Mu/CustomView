@@ -17,7 +17,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ColorFilterActivity"/>
+        <activity
+            android:name=".ColorFilterActivity"
+            android:label="ColorFilter" />
+
+        <activity
+            android:name=".LightingColorFilterAct"
+            android:label="LightingColorFilter" />
     </application>
 
 </manifest>
